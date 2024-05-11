@@ -1,0 +1,19 @@
+#: table_doi: 10.17182/hepdata.61768.v1/t1
+#: name: Table 1
+#: description: Measurements of V2 for inclusive J/PSI production for semi-central (20%-40%) collisions as a function of transverse momentum.
+
+#: data_file: Table1.yaml
+#: keyword reactions: PB PB --> J/PSI X
+#: keyword observables: V2
+#: keyword phrases: Inclusive | Angular Correlation
+#: keyword cmenergies: 2760.0
+#: CENTRALITY [pct],,,20.0-40.0
+#: RE,,,PB PB --> J/PSI X
+#: SQRT(S)/NUCLEON [GeV],,,2760.0
+#: YRAP,,,2.5-4.0
+PT [GEV],PT [GEV] LOW,PT [GEV] HIGH,V2,stat +,stat -,sys +,sys -
+1.1400000000000001,1.121,1.159,0.033,0.045,-0.045,0.015,-0.015
+2.833,2.811,2.855,0.116,0.046,-0.046,0.029,-0.029
+4.821,4.789,4.853,0.097,0.069,-0.069,0.025,-0.025
+7.216,7.141,7.291,0.013,0.087,-0.087,0.065,-0.065
+

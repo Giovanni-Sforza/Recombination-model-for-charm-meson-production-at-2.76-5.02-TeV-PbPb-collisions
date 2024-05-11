@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.78255.v1/t1
+#: name: Table 1
+#: description: $v_2$ vs. $p_{\rm T}$ of  $D^0$ mesons in Pb-Pb collisions at $\sqrt{s_{\rm NN}}$=5.02 TeV in the centrality class 30-50% in the rapidity interval |$y$|<0.8.
+The second (sys) error is the systematic uncertainty from the B feed-down contribution.
+The first (sys) error is the systematic uncertainty from the other sources.
+
+#: data_file: Table1.yaml
+#: keyword reactions: PB PB --> D0  X
+#: keyword observables: V2
+#: keyword cmenergies: 5020.0
+#: CENTRALITY [pct],,,30.0-50.0
+#: RE,,,PB PB --> D0  X + CC
+#: SQRT(S)/NUCLEON [GeV],,,5020.0
+#: YRAP,,,-0.8-0.8
+PT [GEV],PT [GEV] LOW,PT [GEV] HIGH,$v_2$,stat +,stat -,sys_1 +,sys_1 -,sys_2 +,sys_2 -
+1.778,1.0,2.0,0.101,0.096,-0.096,0.028,-0.028,0.027,-0.009
+2.501,2.0,3.0,0.178,0.037,-0.037,0.017,-0.017,0.026,-0.011
+3.47,3.0,4.0,0.156,0.031,-0.031,0.007,-0.007,0.023,-0.009
+4.433,4.0,5.0,0.16,0.035,-0.035,0.011,-0.011,0.022,-0.009
+5.463,5.0,6.0,0.16,0.039,-0.039,0.011,-0.011,0.02,-0.008
+6.453,6.0,7.0,0.113,0.043,-0.043,0.011,-0.011,0.015,-0.006
+7.473,7.0,8.0,0.202,0.049,-0.049,0.012,-0.012,0.034,-0.013
+8.898,8.0,10.0,0.112,0.045,-0.045,0.009,-0.009,0.014,-0.006
+10.9,10.0,12.0,0.011,0.059,-0.059,0.032,-0.032,0.001,-0.001
+13.431,12.0,16.0,0.057,0.063,-0.063,0.035,-0.035,0.006,-0.003
+19.076,16.0,24.0,0.052,0.092,-0.092,0.041,-0.041,0.007,-0.003
+

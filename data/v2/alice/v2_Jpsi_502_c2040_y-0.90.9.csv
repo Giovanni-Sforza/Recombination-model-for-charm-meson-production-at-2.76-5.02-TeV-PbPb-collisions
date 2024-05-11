@@ -1,0 +1,18 @@
+#: table_doi: 10.17182/hepdata.80235.v1/t2
+#: name: Table 2
+#: description: Transverse momentum dependence of inclusive J/$\psi$ $v_2$ at $\sqrt{s_{\rm NN}}=5.02$ TeV for the 20-40% centrality class (mid-rapidity). The first uncertainty (stat) is statistical, the second (sys,uncorrel) is the uncorrelated systematic, while the third one (sys,correl) is a $p_{\rm T}$-correlated systematic uncertainty.
+#: data_file: data2.yaml
+#: data_license:   
+#: keyword reactions: PB PB --> J/PSI X
+#: keyword observables: V2
+#: keyword phrases: 
+#: keyword energies: 5020.0
+#: RE,,,PB PB --> JPSI < E+ E- > X
+#: CENTRALITY [pct],,,20.0-40.0
+#: SQRT(S)/NUCLEON [GeV],,,5020.0
+#: YRAP,,,-0.9 TO 0.9
+PT [GEV/C],PT [GEV/C] LOW,PT [GEV/C] HIGH,$v_2$,stat +,stat -,"sys,uncorrel +","sys,uncorrel -","sys,correl +","sys,correl -"
+1.03,0.0,2.0,0.073,0.105,-0.105,0.052,-0.052,0.0007,-0.0007
+3.17,2.0,6.0,0.129,0.081,-0.081,0.04,-0.04,0.0013,-0.0013
+5.2,4.0,12.0,0.106,0.085,-0.085,0.043,-0.043,0.0011,-0.0011
+

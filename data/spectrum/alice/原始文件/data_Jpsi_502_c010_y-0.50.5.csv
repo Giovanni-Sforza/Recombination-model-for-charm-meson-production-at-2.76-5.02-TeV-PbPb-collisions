@@ -1,0 +1,18 @@
+#: table_doi: 10.17182/hepdata.146644.v1/t1
+#: name: Figure3_Panel1
+#: description: Inclusive J$/psi$ invariant yield as a function of pT in Pb-Pb collisions at $\sqrt{{s}_{NN}}$ = 5.02 TeV for 0-10% centrality interval and |y|< 0.9. The given systematic uncertainties are the total systematic ones and are mostly considered as fully correlated over pT.;
+#: data_file: figure3_panel1.yaml
+#: SQRT(S) [GeV],,,5020.0
+#: Particle,,,J/$\psi$
+#: System,,,Pb--Pb
+#: centrality,,,0--10%
+$p_{T}$ [GeV/$c$],$p_{T}$ [GeV/$c$] LOW,$p_{T}$ [GeV/$c$] HIGH,1/$N_{ev}d^{2} N$/(d$ydp_{T}$) [(GeV/${c})^{-1}$],stat. uncertainty +,stat. uncertainty -,syst. uncertainty +,syst. uncertainty -
+0.575,0.15,1,0.022724,0.0027766,-0.0027766,0.0025248,-0.0025248
+1.5,1,2,0.044653,0.003428,-0.003428,0.0054247,-0.0054247
+2.5,2,3,0.033375,0.00262,-0.00262,0.0038141,-0.0038141
+3.5,3,4,0.013894,0.001179,-0.001179,0.0015597,-0.0015597
+4.5,4,5,0.0056839,0.00052361,-0.00052361,0.0006861,-0.0006861
+6.0,5,7,0.001508,0.00014048,-0.00014048,0.00015606,-0.00015606
+8.5,7,10,0.00033471,3.6426e-05,-3.6426e-05,3.4863e-05,-3.4863e-05
+12.5,10,15,5.3996e-05,1.1381e-05,-1.1381e-05,6.7278e-06,-6.7278e-06
+

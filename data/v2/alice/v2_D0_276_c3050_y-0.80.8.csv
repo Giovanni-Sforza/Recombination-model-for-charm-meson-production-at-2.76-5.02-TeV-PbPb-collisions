@@ -1,0 +1,21 @@
+#: table_doi: 10.17182/hepdata.63499.v1/t3
+#: name: Table 3
+#: description: Prompt D^0 meson v2 as a function of pT for centrality 30-50%.  The first systematic uncertainty is from the data and the second from the B feed-down.
+
+#: data_file: Table3.yaml
+#: keyword reactions: PB PB --> D0 X
+#: keyword observables: V2
+#: keyword phrases: Inclusive | Angular Correlation | Charm production
+#: keyword cmenergies: 2760.0
+#: CENTRALITY [pct],,,30.0-50.0
+#: RE,,,PB PB --> D0 X
+#: SQRT(S)/NUCLEON [GeV],,,2760.0
+#: YRAP,,,-0.8-0.8
+PT [GEV],PT [GEV] LOW,PT [GEV] HIGH,V2,stat +,stat -,"sys,data +","sys,data -","sys,B feed-down +","sys,B feed-down -"
+2.499,2.0,3.0,0.164,0.065,-0.065,0.058,-0.058,0.094,0.0
+3.458,3.0,4.0,0.202,0.058,-0.058,0.028,-0.028,0.109,0.0
+4.859,4.0,6.0,0.211,0.055,-0.055,0.021,-0.021,0.106,0.0
+6.802,6.0,8.0,0.129,0.084,-0.084,0.03,-0.03,0.066,0.0
+9.792,8.0,12.0,0.421,0.083,-0.083,0.054,-0.054,0.236,0.0
+13.469,12.0,16.0,-0.145,0.131,-0.131,0.144,-0.144,0.0,-0.079
+
